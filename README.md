@@ -22,5 +22,5 @@
 | :---: | :---: |
 | guns-base | guns的基础模块 | 
 | guns-sys | guns系统管理的基础业务模块 |
-| guns-vip-main | 公有房屋建筑数据采集系统主模块 |
+| guns-vip-main | 天梯积分系统主模块 |
 
