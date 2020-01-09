@@ -95,7 +95,6 @@ public class BooksController extends BaseController {
     @RequestMapping("/delete")
     @ResponseBody
     public ResponseData delete(BooksParam booksParam) {
-        System.out.println("a");
         this.booksService.delete(booksParam);
         return ResponseData.success();
     }
