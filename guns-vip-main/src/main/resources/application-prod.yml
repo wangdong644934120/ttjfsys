@@ -59,8 +59,8 @@ guns:
 # 阿里云短信发送配置
 aliyun:
   sms:
-    accessKeyId: LTAI4FovFyrrufNmgdbPYSue
-    accessKeySecret: Xkv9b4ZbxcLF9OYsQ3N34Efa0Q1qHV
+    accessKeyId: 
+    accessKeySecret: 
     signName: 红心账户
 
 # 邮件发送（改为自己的账号）
